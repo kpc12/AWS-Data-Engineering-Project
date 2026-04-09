@@ -259,7 +259,7 @@ S3 → e-commerce-data-kpc → Properties
 
 This automatically adds the S3 permission to invoke Lambda 1 
 
-### PART 6 — EventBridge Rule ###
+## PART 6 — EventBridge Rule ##
 
 EventBridge → Rules → Create rule<br>
 → Name: on-crawler-complete<br>
@@ -293,14 +293,14 @@ In event pattern section:
 
 This automatically adds the EventBridge permission to invoke Lambda 2 
 
-### PART 7 — Athena Setup ###
+## PART 7 — Athena Setup ##
 
 Athena → Settings → Manage<br>
 → Query result location: s3://e-commerce-data-kpc/athena-results/<br>
 → Save<br>
 
 
-Final Checklist
+#### Final Checklist ####
 
 IAM: lambda-pipeline-execution-role created with inline policy<br>
 IAM: glue-pipeline-service-role created with AWSGlueServiceRole + inline policy<br>
