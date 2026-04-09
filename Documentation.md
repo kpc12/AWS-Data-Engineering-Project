@@ -123,7 +123,7 @@ Then upload `orders.json` into the 'raw/' folder and upload 'etl_ecommerce.py' s
 
 ## PART 3 — Glue Setup ##
 
-Create Database
+#### Create Database ####
 
 Glue → Databases → Add database<br>
 → Name: ecommerce_db<br>
