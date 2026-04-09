@@ -1,0 +1,13 @@
+order_id,customer,region,product,quantity,unit_price,order_date,status
+1001,Alice Johnson,North,Laptop,2,850.00,2024-01-15,completed
+1002,bob smith,South,Mouse,5,25.50,2024-01-17,COMPLETED
+1003,Carol White,East,Keyboard,3,,2024-01-18,pending
+1004,,West,Monitor,1,320.00,2024-01-20,completed
+1005,Eve Davis,North,Laptop,1,850.00,2024-02-01,cancelled
+1006,Frank Moore,South,Mouse,10,25.50,2024-02-03,completed
+1007,Grace Lee,East,Headphones,2,75.00,2024-02-05,pending
+1008,Henry Brown,West,Keyboard,4,45.00,2024-02-10,completed
+1009,Isla Clark,North,Monitor,2,320.00,2024-02-12,completed
+1010,James Wilson,South,Laptop,1,850.00,bad-date,completed
+1011,Alice Johnson,North,Mouse,3,25.50,2024-03-01,completed
+1012,Carol White,East,Laptop,1,850.00,2024-03-05,PENDING

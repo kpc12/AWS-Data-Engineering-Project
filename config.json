@@ -1,0 +1,10 @@
+{
+    "project": "orders_data_pipeline",
+
+    "input":{
+        "BUCKET_NAME": "e-commerce-data-kpc",
+        "AWS_REGION": "us-east-1",
+        "SOURCE_TYPE": "s3",
+        "STREAM_NAME": "kinesis-demo"
+    }
+}
