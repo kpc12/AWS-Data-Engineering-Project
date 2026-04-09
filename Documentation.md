@@ -241,12 +241,12 @@ Configuration → General configuration → Edit<br>
 
 
 
-### PART 5 — S3 Event Notification ###
+## PART 5 — S3 Event Notification ##
 
 S3 → e-commerce-data-kpc → Properties
 → Event notifications → Create event notification
 
-#### | Field | Value ###
+#### | Field | Value ####
 
 | Event name | json-upload-trigger |<br>
 | Prefix | raw/ |<br>
