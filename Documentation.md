@@ -15,7 +15,7 @@
 
 Now add permissions — search for your new role and click it:
 
-*** → Permissions tab → Add permissions → Create inline policy → Click JSON tab → paste this: ***
+#### → Permissions tab → Add permissions → Create inline policy → Click JSON tab → paste this: ####
 
 {
   "Version": "2012-10-17",<br>
