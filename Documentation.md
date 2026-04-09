@@ -159,7 +159,7 @@ Glue → ETL Jobs → Script editor<br>
 Paste the ETL script in the editor and click Save
 
 
-### PART 4 — Lambda Functions ###
+## PART 4 — Lambda Functions ##
 
 Lambda 1 — s3-crawler-trigger
 
